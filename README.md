@@ -1,2 +1,2 @@
 # webdev
-journey to front end wed development
+journey to front end web development
